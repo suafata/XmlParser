@@ -1,7 +1,7 @@
 # XmlParser
 * Project contains two CommandLineRunners. 
 * One to generate test file 
-* Another to process files in specified directories 
+* Another to process files in specified directory
 
 # To Generate Xml test File set in application.properties
 ```
