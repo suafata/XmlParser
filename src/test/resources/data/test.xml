@@ -1,0 +1,14 @@
+<org>
+    <user>
+        <firstname>Name0</firstname>
+        <lastname>Surname0</lastname>
+    </user>
+    <user>
+        <firstname>Name1</firstname>
+        <lastname>Surname1</lastname>
+    </user>
+    <user>
+        <firstname>Name2</firstname>
+        <lastname>Surname2</lastname>
+    </user>
+</org>
